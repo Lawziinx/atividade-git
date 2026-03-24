@@ -1,7 +1,7 @@
 # Atividade GitHub
 
 ## Nome
-Iarley Oliveira de Jesus
+Iarley Jesus
 
 ## Conhecimentos em Web
 
